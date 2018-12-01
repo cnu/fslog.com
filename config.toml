@@ -1,3 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://fslog.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Free Software Blog"
+theme = "minos"
+paginate = 20
+
+[params]
+  Author = "Srinivasan Rangarajan"
+  GitHubUser = "cnu"
+  smartToc = true
+  disqusShortname = "fslog"
+  googleAnalytics = "UA-996902-1"

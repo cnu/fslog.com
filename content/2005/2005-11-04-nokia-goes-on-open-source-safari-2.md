@@ -7,7 +7,7 @@ categories:
   - Open Source
 
 ---
-[<img width="128" height="86" align="left" alt="Nokia" id="image94" src="http://www.fslog.com/wp-content/uploads/2006/01/Nokia.thumbnail.jpg" />][1]
+[<img width="128" height="86" align="left" alt="Nokia" id="image94" src="/uploads/2006/01/Nokia..jpg" />][1]
 
 Nokia, the mobile phone giant has created an open-source browser based on Safari for smartphones. This team of Nokia and Safari will deliver a web browser for the [S60 smartphone sotware platform][2].
   

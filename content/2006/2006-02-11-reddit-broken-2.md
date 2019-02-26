@@ -8,7 +8,7 @@ categories:
   - Sites
 
 ---
-<img align="left" alt="Reddit Broken" id="image176" src="http://fslog.com/wp-content/uploads/2006/02/reddit500.thumbnail.png" />[Reddit][1] the popular news site which publishes news items according to the votes of its members has broken down. While submitting an article, it showed this page with the words **looks like we shouldn&#8217;t have stopped using lisp&#8230;**
+<img align="left" alt="Reddit Broken" id="image176" src="/uploads/2006/02/reddit500.png" />[Reddit][1] the popular news site which publishes news items according to the votes of its members has broken down. While submitting an article, it showed this page with the words **looks like we shouldn&#8217;t have stopped using lisp&#8230;**
   
 Funny yeah. But I would like to know what was the problem. It uses the [web.py][2] framework.
 

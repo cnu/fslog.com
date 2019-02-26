@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="right" id="image283" alt="SwiftFox" src="http://www.fslog.com/wp-content/uploads/2006/09/swiftfoxlogo.jpg" />Do you think that Firefox is too slow for your internet experience. Maybe you need to have a special firefox built especially optimised for your architecture. You may try out [SwiftFox][1] which has various builds firefox which is suitable for your particular processor. There are [Ubuntu deb files][2] too available.
+<img align="right" id="image283" alt="SwiftFox" src="/uploads/2006/09/swiftfoxlogo.jpg" />Do you think that Firefox is too slow for your internet experience. Maybe you need to have a special firefox built especially optimised for your architecture. You may try out [SwiftFox][1] which has various builds firefox which is suitable for your particular processor. There are [Ubuntu deb files][2] too available.
 
 Swiftfox has builds for both AMD and Intel processors. The 1.5.0.6 release is based on Firefox 1.5.0.6.
 

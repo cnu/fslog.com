@@ -8,7 +8,7 @@ categories:
 
 ---
 <div align="left">
-  <img align="right" alt="Fluxbuntu" id="image281" src="http://www.fslog.com/wp-content/uploads/2006/09/Fblogowikismall.png" /><a href="http://fluxbuntu.org/">Fluxbuntu</a> is a Ubuntu-based derivative that uses FluxBox as the desktop environment (window manager). It is lightweight, swift and efficient compared to Gnome or KDE. These features makes Fluxbuntu suitable for vast range of computers, from low-end to high-end.
+  <img align="right" alt="Fluxbuntu" id="image281" src="/uploads/2006/09/Fblogowikismall.png" /><a href="http://fluxbuntu.org/">Fluxbuntu</a> is a Ubuntu-based derivative that uses FluxBox as the desktop environment (window manager). It is lightweight, swift and efficient compared to Gnome or KDE. These features makes Fluxbuntu suitable for vast range of computers, from low-end to high-end.
 </div>
 
 <div align="left">

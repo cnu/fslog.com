@@ -8,7 +8,7 @@ categories:
   - Updates
 
 ---
-<img width="128" height="40" align="left" alt="OpenOffice.org" id="image99" src="http://www.fslog.com/wp-content/uploads/2006/01/ooologo.thumbnail.jpg" />The much awaited [OpenOffice.org 2.0 was released][1] on 20 Oct, 2005.
+<img width="128" height="40" align="left" alt="OpenOffice.org" id="image99" src="/uploads/2006/01/ooologo..jpg" />The much awaited [OpenOffice.org 2.0 was released][1] on 20 Oct, 2005.
   
 OpenOffice.org natively supports the internationally standardised OpenDocument format, which several countries, as well as the U.S. state of Massachusetts, have established as the default for office documents. It is available in 36 languages (more promised) and as usual runs natively on GNU/Linux, Windows, Sun Solaris, Mac OS X and more. This new OpenDocument format prevents vendor lock-in and can be opened by any office application.
   

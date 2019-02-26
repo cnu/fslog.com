@@ -8,7 +8,7 @@ categories:
   - Tips and Tricks
 
 ---
-<img align="left" id="image299" alt="Wordpress logo" src="http://www.fslog.com/wp-content/uploads/2006/11/wordpress-logo-cristal.thumbnail.jpg" />WordPress has this particular problem when publishing or saving a blog post where it shows a 404 page instead of the required effect. This is irritating when you have typed a long post and just after you have published it shows the 404 error, and all your data is lost. I have faced this same problem for many times.
+<img align="left" id="image299" alt="Wordpress logo" src="/uploads/2006/11/wordpress-logo-cristal..jpg" />WordPress has this particular problem when publishing or saving a blog post where it shows a 404 page instead of the required effect. This is irritating when you have typed a long post and just after you have published it shows the 404 error, and all your data is lost. I have faced this same problem for many times.
   
 After a bit of Googling, I found out that the problem is with mod_security being set on server.
   

@@ -7,7 +7,7 @@ categories:
   - Hardware
 
 ---
-[<img width="215" height="65" align="right" id="image287" alt="Linutop Logo" src="http://www.fslog.com/wp-content/uploads/2006/11/linutop.png" />][1] [Linutop][1] is a Linux-based diskless computer. It offers a completely silent, low-power operation in an extremely small package. Its main purpose is to surf the Internet. It is just a small box which has USB ports for attaching the keyboard, mouse and a port to attach a monitor.
+[<img width="215" height="65" align="right" id="image287" alt="Linutop Logo" src="/uploads/2006/11/linutop.png" />][1] [Linutop][1] is a Linux-based diskless computer. It offers a completely silent, low-power operation in an extremely small package. Its main purpose is to surf the Internet. It is just a small box which has USB ports for attaching the keyboard, mouse and a port to attach a monitor.
 
 Linutop can be used in
 
@@ -16,7 +16,7 @@ Linutop can be used in
   * Hotels, hospitals, internet cafes, etc
 
 <p style="text-align: center">
-  <img id="image288" alt="Linutop Desk" src="http://www.fslog.com/wp-content/uploads/2006/11/linutop_desk.jpg" />
+  <img id="image288" alt="Linutop Desk" src="/uploads/2006/11/linutop_desk.jpg" />
 </p>
 
 **Specification:**

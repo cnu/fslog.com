@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img src="http://www.fslog.com/wp-content/uploads/2006/12/lamp.gif" id="image306" alt="lamp" align="right" />Many of you must be wanting to try some web development and would like to setup their own LAMP([Linux][1], [Apache][2], [MySQL][3], [PHP][4]/[Perl][5]/[Python][6]) stack. Ubuntu has a special [Server Edition][7] for setting up your own LAMP server, most of you may want to install it on your desktop (I like it that way).
+<img src="/uploads/2006/12/lamp.gif" id="image306" alt="lamp" align="right" />Many of you must be wanting to try some web development and would like to setup their own LAMP([Linux][1], [Apache][2], [MySQL][3], [PHP][4]/[Perl][5]/[Python][6]) stack. Ubuntu has a special [Server Edition][7] for setting up your own LAMP server, most of you may want to install it on your desktop (I like it that way).
 
 This involves installing Apache, PHP, Python and MySQL. I think Python will be installed by default and we only need to install mod_python for Apache. I use Ubuntu Edgy Eft 6.10.
 

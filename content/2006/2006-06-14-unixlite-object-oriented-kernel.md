@@ -8,7 +8,7 @@ categories:
   - Software
 
 ---
-<img align="right" id="image261" alt="Unix Lite" src="http://www.fslog.com/wp-content/uploads/2006/06/unixlite.png" />[UnixLite][1] is a lightweight unix/linux compatible operating system written in C++. Just like Linux, it is just a kernel &#8211; written from scratch and most of the part is written in C++. However the library used by UnixLite comes from [uClibc][2] and applications running comes from the [GNU][3] project. UnixLite kernel implements some <a target="_blank" href="http://www.unixlite.org/status.html">frequently used system calls of linux</a>, furthermore, it is binary compatible with linux, and some GNU software have been ported to unixlite.
+<img align="right" id="image261" alt="Unix Lite" src="/uploads/2006/06/unixlite.png" />[UnixLite][1] is a lightweight unix/linux compatible operating system written in C++. Just like Linux, it is just a kernel &#8211; written from scratch and most of the part is written in C++. However the library used by UnixLite comes from [uClibc][2] and applications running comes from the [GNU][3] project. UnixLite kernel implements some <a target="_blank" href="http://www.unixlite.org/status.html">frequently used system calls of linux</a>, furthermore, it is binary compatible with linux, and some GNU software have been ported to unixlite.
 
 Due to the small size(the kernel is made up of about 20000 lines of code) and the object oriented programming using the c++, the kernel becomes more modular and easy to understand.
 

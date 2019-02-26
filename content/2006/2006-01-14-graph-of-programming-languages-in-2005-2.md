@@ -8,7 +8,7 @@ categories:
   - Programming
 
 ---
-<img width="298" height="164" align="left" alt="Job Graph" id="image115" src="http://fslog.com/wp-content/uploads/2006/01/jobgraph.png" />
+<img width="298" height="164" align="left" alt="Job Graph" id="image115" src="/uploads/2006/01/jobgraph.png" />
   
 Saw this nice site which displays a [graph of the programming languages][1] that were most sought after. [Indeed][2] is a site where one can search for any job listed.
 

@@ -8,7 +8,7 @@ categories:
   - Software
 
 ---
-<img align="left" alt="SongBird" id="image163" style="width: 273px; height: 196px" src="http://fslog.com/wp-content/uploads/2006/02/screenshot_library.thumbnail.jpg" />A team led by ex-Winamp-er [Rob Lord][1] today released a preview edition of [Songbird][2], a desktop media player that offers an open source alternative to services like Apple&#8217;s iTunes and the Windows Media Player. Instead of connecting to one locked store full of DRMmed goods, it can connect to any and all available music (and video) on the internet.
+<img align="left" alt="SongBird" id="image163" style="width: 273px; height: 196px" src="/uploads/2006/02/screenshot_library..jpg" />A team led by ex-Winamp-er [Rob Lord][1] today released a preview edition of [Songbird][2], a desktop media player that offers an open source alternative to services like Apple&#8217;s iTunes and the Windows Media Player. Instead of connecting to one locked store full of DRMmed goods, it can connect to any and all available music (and video) on the internet.
 
 It is built on the same platform as that of Firefox and it acts as a specialised browser for music. Looks like a nicer solution getting good songs.
 

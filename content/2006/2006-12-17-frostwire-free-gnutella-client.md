@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="left" alt="FrostWire" id="image320" src="http://www.fslog.com/wp-content/uploads/2006/12/64x64frostsphere.png" />FrostWire is a fork of the very popular [LimeWire][1] [Gnutella][2] client. Gnutella is a popular file sharing network. It is a huge network hosting approximately 2.2 million users. It has numerous files ranging from mp3s, movies, ebooks, applications, etc.
+<img align="left" alt="FrostWire" id="image320" src="/uploads/2006/12/64x64frostsphere.png" />FrostWire is a fork of the very popular [LimeWire][1] [Gnutella][2] client. Gnutella is a popular file sharing network. It is a huge network hosting approximately 2.2 million users. It has numerous files ranging from mp3s, movies, ebooks, applications, etc.
 
 FrostWire is a free and open source software without all the nasty nags. It also has a built-in bittorrent client. Here the steps to install FrostWire on your Ubuntu Edgy.First you have to install J2SE Runtime Environment (JRE).
 

@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="left" alt="Opera Logo" id="image310" src="http://www.fslog.com/wp-content/uploads/2006/12/operalogo.jpg" />Though many users prefer Mozilla Firefox, there are people who like Opera for the speed. It has many features that are yet to be seen in Internet Explorer.
+<img align="left" alt="Opera Logo" id="image310" src="/uploads/2006/12/operalogo.jpg" />Though many users prefer Mozilla Firefox, there are people who like Opera for the speed. It has many features that are yet to be seen in Internet Explorer.
 
 The latest version of Opera is 9 and has many unique features that is not yet found in other browsers.
 

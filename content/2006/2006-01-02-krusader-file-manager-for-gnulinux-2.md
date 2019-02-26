@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img width="119" height="96" align="left" id="image93" alt="Krusader" src="http://www.fslog.com/wp-content/uploads/2006/01/krusader.thumbnail.png" />
+<img width="119" height="96" align="left" id="image93" alt="Krusader" src="/uploads/2006/01/krusader.png" />
 
 [Krusader][1] is an advanced twin panel (commander style) file manager for [KDE][2] and other desktops in the *nix world, similar to [Midnight Commanger][3] or [Total Commander][4]. It provides all the file management features you could possibly want along with extensive archive handling, mounted filesystem support with a built-in mount manager, search module. It also has an internal viewer/editor. You can also rename whole batches of files.
   

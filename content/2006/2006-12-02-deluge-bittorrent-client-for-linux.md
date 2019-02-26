@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="left" alt="deluge logo" id="image308" src="http://www.fslog.com/wp-content/uploads/2006/12/deluge192.png" />In windows I used to have uTorrent for downloading my torrents. Under Linux I searched for a nice software which doesn&#8217;t take too much system resources. Atlast I found [Deluge][1] which is written in Python and has a very easy to use interface just like uTorrent.
+<img align="left" alt="deluge logo" id="image308" src="/uploads/2006/12/deluge192.png" />In windows I used to have uTorrent for downloading my torrents. Under Linux I searched for a nice software which doesn&#8217;t take too much system resources. Atlast I found [Deluge][1] which is written in Python and has a very easy to use interface just like uTorrent.
 
 It shows detailed statistics about the torrent you are downloading, multiple torrents download using the same interface, even a built-in search engine.
 

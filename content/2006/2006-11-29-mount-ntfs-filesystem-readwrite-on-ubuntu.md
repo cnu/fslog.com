@@ -7,7 +7,7 @@ categories:
   - Tips and Tricks
 
 ---
-<img align="left" id="image301" alt="ubuntu logo" src="http://www.fslog.com/wp-content/uploads/2006/11/ubuntu_logo.thumbnail.gif" />Here is the simple method to enable read write access for your NTFS file system on your Ubuntu Box. This method uses ntfs-3g which is still in beta. You should not use it on production machines.
+<img align="left" id="image301" alt="ubuntu logo" src="/uploads/2006/11/ubuntu_logo.gif" />Here is the simple method to enable read write access for your NTFS file system on your Ubuntu Box. This method uses ntfs-3g which is still in beta. You should not use it on production machines.
 
 First enable Universe repository
 

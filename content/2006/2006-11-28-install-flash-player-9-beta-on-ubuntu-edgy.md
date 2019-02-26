@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="right" id="image297" alt="flash logo" src="http://www.fslog.com/wp-content/uploads/2006/11/flash-logo.thumbnail.jpg" />Flash player 9 beta is the latest version that you can get for your linux box. This is very essential for my life because I miss all the youtube videos. So, I decided to install the flash player 9 beta on by Ubuntu Edgy Eft 6.10.
+<img align="right" id="image297" alt="flash logo" src="/uploads/2006/11/flash-logo..jpg" />Flash player 9 beta is the latest version that you can get for your linux box. This is very essential for my life because I miss all the youtube videos. So, I decided to install the flash player 9 beta on by Ubuntu Edgy Eft 6.10.
 
 First you have to install the flash player 7. Remember to enable all the repositories.
 

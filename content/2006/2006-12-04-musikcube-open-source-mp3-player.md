@@ -7,7 +7,7 @@ categories:
   - Software
 
 ---
-<img align="left" id="image314" alt="Music Cube Logo" src="http://www.fslog.com/wp-content/uploads/2006/12/musikcube_logo_r1.png" />[MusikCube][1] is an open source MP3 player for the &#8220;modern generation&#8221;. It helps you just listen to what you want to hear, while offering innovative features not seen elsewhere.
+<img align="left" id="image314" alt="Music Cube Logo" src="/uploads/2006/12/musikcube_logo_r1.png" />[MusikCube][1] is an open source MP3 player for the &#8220;modern generation&#8221;. It helps you just listen to what you want to hear, while offering innovative features not seen elsewhere.
 
 MusikCube is based on an embedded SQL database engine called SQLite. It is a very fast database engine which makes creating Dynamic Playlist easy.
 

@@ -10,7 +10,7 @@ categories:
   - News
 
 ---
-<img width="128" height="58" align="left" id="image100" alt="Koobox" src="http://www.fslog.com/wp-content/uploads/2006/01/koobox_logo.thumbnail.jpg" /><tag>Koobox</tag> is a sub $300 <tag>GNU/Linux</tag> desktop released by <tag>[Mirus][1]</tag> which runs on <tag>Linspire</tag> GNU/Linux. Though <tag>[Ubuntu][2][</tag> has an <tag>OEM installation][2]</tag>, I still haven&#8217;t used Linspire GNU/Linux.
+<img width="128" height="58" align="left" id="image100" alt="Koobox" src="/uploads/2006/01/koobox_logo..jpg" /><tag>Koobox</tag> is a sub $300 <tag>GNU/Linux</tag> desktop released by <tag>[Mirus][1]</tag> which runs on <tag>Linspire</tag> GNU/Linux. Though <tag>[Ubuntu][2][</tag> has an <tag>OEM installation][2]</tag>, I still haven&#8217;t used Linspire GNU/Linux.
 
 There are three models that are available with Koobox.
 

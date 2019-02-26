@@ -8,7 +8,7 @@ categories:
   - News
 
 ---
-[<img align="right" id="image335" alt="Fedore Core Logo" src="http://www.fslog.com/wp-content/uploads/2007/01/fedora_logo1.thumbnail.gif" />][1][Fedora Core 6][1] is now available as a [live CD][2]. This is great news to the old fedora fans out there. Fedora is a project that is sponsored by RedHat and is contributed by many developers around the world. These people create high quality open source software which can be used by anyone.
+[<img align="right" id="image335" alt="Fedore Core Logo" src="/uploads/2007/01/fedora_logo1.gif" />][1][Fedora Core 6][1] is now available as a [live CD][2]. This is great news to the old fedora fans out there. Fedora is a project that is sponsored by RedHat and is contributed by many developers around the world. These people create high quality open source software which can be used by anyone.
 
 It was a great distro back in those old days. But after Ubuntu came along, it lost its place. I haven&#8217;t tried FC for the past 2 years and this live CD would be a nice way to try it.
 

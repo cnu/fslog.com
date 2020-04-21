@@ -3,10 +3,10 @@ languageCode = "en-us"
 title = "Free Software Blog"
 theme = "minos"
 paginate = 20
+disqusShortname = "fslog"
+googleAnalytics = "UA-996902-1"
 
 [params]
   Author = "Srinivasan Rangarajan"
   GitHubUser = "cnu"
   smartToc = true
-  disqusShortname = "fslog"
-  googleAnalytics = "UA-996902-1"
